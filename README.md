@@ -10,4 +10,4 @@ https://github.com/robotics-upo/Heuristic_path_planners
 
 https://github.com/RAFALAMAO/hector-quadrotor-noetic/tree/main
 
-Take into the account that the HIO-SDF package's property does not belong to us. The HIO package and heuristic_path_planners here are modified from the original version, according to the information in the paper.
+Take into the account that the original property of the modified packages does not belong to us in any way. The HIO package and heuristic_path_planners here are modified from the original version, according to the information in the paper.
