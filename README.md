@@ -17,4 +17,10 @@ Take into the account that the original property of the individual packages (exc
 
 # **How to cite**
 
-The paper related to this framework, **"A Framework for Safe Local 3D Path Planning based on Online Neural Euclidean Signed Distance Fields"** was presented to ICUAS2025 and is currently under review.
+The paper related to this framework, **"A Framework for Safe Local 3D Path Planning based on Online Neural Euclidean Signed Distance Fields"** was presented to ICUAS2025. You can cite it with the following information:
+
+G. Gil, J. A. Cobano, F. Caballero and L. Merino, "A Framework for Safe Local 3D Path Planning Based on Online Neural Euclidean Signed Distance Fields," 2025 International Conference on Unmanned Aircraft Systems (ICUAS), Charlotte, NC, USA, 2025, pp. 511-517, doi: 10.1109/ICUAS65942.2025.11007788. 
+
+# **Acknowledgement**
+
+This work was supported by the grants INSERTION PID2021-127648OB-C31 and NORDIC TED2021-132476BI00, funded by MCIN/AEI/ 10.13039/501100011033 and “European Union NextGenerationEU/PRTR”
