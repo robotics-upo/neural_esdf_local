@@ -23,4 +23,6 @@ G. Gil, J. A. Cobano, F. Caballero and L. Merino, "A Framework for Safe Local 3D
 
 # **Acknowledgement**
 
+![Logo Ministerio de Ciencia e Innovación, Fondos NextGenerationEU, PRTR, Agencia Estatal de Investigación](./acknowledgement_logos.png)
+
 This work was supported by the grants INSERTION PID2021-127648OB-C31 and NORDIC TED2021-132476BI00, funded by MCIN/AEI/ 10.13039/501100011033 and “European Union NextGenerationEU/PRTR”
